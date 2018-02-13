@@ -1,0 +1,5 @@
+{
+  "name": "extension",
+  "browser": "dom.js",
+  "main": "node.js"
+}
